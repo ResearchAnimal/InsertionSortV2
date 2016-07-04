@@ -1,5 +1,5 @@
 # InsertionSortV2
-Simple Insertion Sort Algorithm
+
 This algorithm sorts a random array of numbers into increasing order. 
 The array size and the random number range are controlled with m.
 
